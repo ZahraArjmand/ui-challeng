@@ -40,3 +40,29 @@ details > summary {
     display: none !important;
   }
 }
+.ticket {
+  position: relative;
+  /* height: 111px; */
+  background-color: #fff;
+
+  &::before {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-color: #f3f3f3;
+    border-radius: 50%;
+    top: -15px;
+    left: 30%;
+  }
+  &::after {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-color: #f3f3f3;
+    border-radius: 50%;
+    bottom: -15px;
+    left: 30%;
+  }
+}

@@ -9,8 +9,16 @@ module.exports = {
       sm: "14px",
       base: "16px",
       xsm: "12px",
+      xxs: "11px",
     },
-    extend: {},
+
+    extend: {
+      colors: {
+        red: { 500: "#ff1d23" },
+        origin: { 500: "#ff7913" },
+        grey: { 600: "#f3f3f3" },
+      },
+    },
   },
   plugins: [],
 };
