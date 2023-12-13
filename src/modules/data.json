@@ -1,0 +1,183 @@
+{
+  "recommendedFlights": [
+    {
+      "id": 1,
+      "originLocation": "تهران",
+      "destinationLocation": "مشهد",
+      "startDate": "11 شهریور",
+      "endDate": "14 شهریور",
+      "specialSale": true,
+      "specialSalePrices": { "finalPrice": 1370000, "originalPrice": 1450000 },
+      "startPrice": ""
+    },
+    {
+      "id": 2,
+      "originLocation": "تهران",
+      "destinationLocation": "کیش",
+      "startDate": "11 شهریور",
+      "endDate": "14 شهریور",
+      "specialSale": true,
+      "specialSalePrices": { "finalPrice": 1370000, "originalPrice": 1450000 },
+      "startPrice": ""
+    },
+    {
+      "id": 3,
+      "originLocation": "تهران",
+      "destinationLocation": "تبریز",
+      "startDate": "11 شهریور",
+      "endDate": "14 شهریور",
+      "specialSale": true,
+      "specialSalePrices": { "finalPrice": 1370000, "originalPrice": 1450000 },
+      "startPrice": ""
+    },
+    {
+      "id": 4,
+      "originLocation": "تهران",
+      "destinationLocation": "شیراز",
+      "startDate": "11 شهریور",
+      "endDate": "14 شهریور",
+      "specialSale": false,
+      "specialSalePrices": { "finalPrice": 0, "originalPrice": 0 },
+      "startPrice": 1370000
+    },
+    {
+      "id": 5,
+      "originLocation": "تهران",
+      "destinationLocation": " اصفهان",
+      "startDate": "11 شهریور",
+      "endDate": "14 شهریور",
+      "specialSale": false,
+      "specialSalePrices": { "finalPrice": 0, "originalPrice": 0 },
+      "startPrice": 1370000
+    },
+    {
+      "id": 6,
+      "originLocation": "تهران",
+      "destinationLocation": "یزد",
+      "startDate": "11 شهریور",
+      "endDate": "14 شهریور",
+      "specialSale": false,
+      "specialSalePrices": { "finalPrice": 0, "originalPrice": 0 },
+      "startPrice": 1370000
+    }
+  ],
+  "recommendedHotels": [
+    {
+      "id": 1,
+      "city": "مشهد",
+      "hotelName": "هتل درویشی مشهد",
+      "rate": "5",
+      "src": "images/download.png"
+    },
+    {
+      "id": 2,
+      "city": "مشهد",
+      "hotelName": "هتل الماس قصر",
+      "rate": "4",
+      "src": "images/download_2.png"
+    },
+    {
+      "id": 3,
+      "city": "تهران",
+      "hotelName": "هتل تهران",
+      "rate": "3",
+      "src": "images/download_3.png"
+    },
+    {
+      "id": 4,
+      "city": "کیش",
+      "hotelName": "هتل شایان",
+      "rate": "4",
+      "src": "images/download_4.png"
+    }
+  ],
+  "popularDestinations": [
+    {
+      "id": 1,
+      "locationsName": "هتل‌های شیراز",
+      "src": "images/Rectangle 2127.png"
+    },
+    {
+      "id": 2,
+      "locationsName": "هتل‌های کیش",
+      "src": "images/Rectangle 2127_4.png"
+    },
+    {
+      "id": 3,
+      "locationsName": "هتل‌های مشهد",
+      "src": "images/Rectangle 2127_7.png"
+    },
+    {
+      "id": 4,
+      "locationsName": "هتل‌های تهران",
+      "src": "images/Rectangle 2127_10.png"
+    },
+    {
+      "id": 5,
+      "locationsName": "هتل‌های شیراز",
+      "src": "images/Rectangle 2127_2.png"
+    },
+    {
+      "id": 6,
+      "locationsName": "هتل‌های کیش",
+      "src": "images/Rectangle 2127_5.png"
+    },
+    {
+      "id": 7,
+      "locationsName": "هتل‌های مشهد",
+      "src": "images/Rectangle 2127_6.png"
+    },
+    {
+      "id": 8,
+      "locationsName": "هتل‌های تهران",
+      "src": "images/Rectangle 2127_11.png"
+    },
+    {
+      "id": 9,
+      "locationsName": "هتل‌های شیراز",
+      "src": "images/Rectangle 2127.png"
+    },
+    {
+      "id": 10,
+      "locationsName": "هتل‌های کیش",
+      "src": "images/Rectangle 2127_8.png"
+    },
+    {
+      "id": 11,
+      "locationsName": "هتل‌های مشهد",
+      "src": "images/Rectangle 2127_9.png"
+    },
+    {
+      "id": 12,
+      "locationsName": "هتل‌های تهران",
+      "src": "images/Rectangle 2127_5.png"
+    }
+  ],
+  "popularQuestions": [
+    {
+      "id": 1,
+      "question": "چند روز قبل از پرواز، بلیط هواپیما را بخریم؟",
+      "ansewr": "متن آزمایشی می‌باشد."
+    },
+    {
+      "id": 2,
+      "question": "در هر پرواز، میزان بار مجاز چقدر است؟",
+      "ansewr": "متن آزمایشی می‌باشد."
+    },
+    {
+      "id": 3,
+      "question": "نرخ بلیط هواپیما برای نوزادان و کودکان زیر ۱۲ سال چگونه است؟",
+      "ansewr": "طبیعی است که گاهی اوقات سفرمان به هر دلیلی کنسل شود. در این میان هتل‌ها قوانین خودشان را برای کنسلی دارند. بعضی از هتل‌ها استرداد پول را می‌پذیرند، البته این استرداد در بیشتر موارد با کسر هزینه جریمه است. میزان جریمه هم باز به قوانین هتل و زمانی که کنسلی را اعلام می‌کنید، بستگی دارد. (هر چه دیرتر کنسلی را اعلام کنید، احتمال افزایش جریمه بیشتر است).\nاما هتل‌هایی هم وجود دارند که کنسلی و استرداد وجه را نمی‌پذیرند. زمانی که در علی بابا در حال رزرو آنلاین هتل هستید، موضوع قوانین کنسلی را مورد توجه قرار دهید. در هنگام رزرو در مقابل هر یک از اتاق‌های هتل واژه‌های «قوانین کنسلی» یا «غیرقابل استرداد» را مشاهده می‌کنید. غیرقابل استراداد همان طور که از نامش پیداست، وجهی به شما پس نمی‌دهد. اما اگر واژه قوانین کنسلی را دیدید، روی آن کلیک کنید و این قوانین را بخوانید."
+    },
+    {
+      "id": 4,
+      "question": "آیا پس از خرید اینترنتی بلیط هواپیما امکان استرداد آن وجود دارد؟",
+      "ansewr": "متن آزمایشی می‌باشد."
+    },
+    {
+      "id": 5,
+      "question": "کودکان تا چه سنی رایگان پذیرش می‌شوند و تخت آنها چگونه است؟",
+      "ansewr": "متن آزمایشی می‌باشد."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+@font-face {
+  font-family: IRANSans;
+  src: url(../assets/fonts/IRANSans\ Regular.ttf);
+}
+*,
+*::after,
+*::before {
+  font-family: IRANSans;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+.header-container {
+}
+
+@media (min-width: 1200px) {
+  .header-container {
+    background-image: url("../assets/images/Group15664.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 475px;
+  }
+  .container {
+    width: 1200px;
+  }
+}
+
+details > summary {
+  cursor: pointer;
+  list-style: none;
+}
+@media (max-width: 1200px) {
+  .child:nth-child(n + 5) {
+    display: none !important;
+  }
+}
